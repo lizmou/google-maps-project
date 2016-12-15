@@ -1,0 +1,24 @@
+html,
+body {
+ height: 100%;
+ margin: 0;
+ padding: 0;
+}
+
+#title{
+	text-align: center;
+	width: 100%;
+	background-color: #fff;
+	font-family: sans-serif;
+	padding: 5px;
+	font-size: 30px;
+	border: 2px solid #999;
+}
+#map{
+	height: 75%;
+    width: 75%;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
